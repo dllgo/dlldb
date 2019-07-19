@@ -1,0 +1,6 @@
+{
+    "go.inferGopath": true,
+    "go.gotoSymbol.includeGoroot": true,
+    "go.goroot":"/Applications/go",
+    "go.gopath": "/Users/lyg/go",
+}
